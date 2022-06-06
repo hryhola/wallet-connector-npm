@@ -1,0 +1,3 @@
+# wallet-connector-npm
+
+⛔️ DEPRECATED
